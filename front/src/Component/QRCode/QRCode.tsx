@@ -5,7 +5,7 @@ import style from './style';
 export const QRCode: FC<QRCodeComponentInterface> = () => {
 
     return <div data-testid="qr-code" className={style.cardStyle}>
-        <div>
+        <div className={style.cardContentImage}>
             <img alt="Schema-QR-Code" src="/assets/images/image-qr-code.png" />
         </div>
         <div>
