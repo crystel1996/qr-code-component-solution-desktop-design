@@ -40,6 +40,7 @@ const cardContentParagraph = css `
 
     & p {
         color: ${COLOR.grayishBlue};
+        font-size: 15px;
     }
 
 `;
