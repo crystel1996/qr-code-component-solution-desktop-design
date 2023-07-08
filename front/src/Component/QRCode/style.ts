@@ -13,16 +13,18 @@ const cardStyle = css`
 const cardContent = css`
 
     background: ${COLOR.white};
-    width: 250px;
+    width: 350px;
+    height: auto;
     border-radius: 25px;
     padding: 15px;
-    margin-top: 180px;
+    padding-bottom: 25px;
+    margin: 180px 15px 15px 15px;
 
 `;
 
 const cardContentImage = css`
     & img {
-        width: 250px;
+        width: 350px;
         border-radius: 25px;
     }
 
