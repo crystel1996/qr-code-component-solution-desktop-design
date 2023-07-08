@@ -1,9 +1,10 @@
 import React from 'react';
+import { QRCode } from './Component';
 
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <QRCode />
     </div>
   );
 }
