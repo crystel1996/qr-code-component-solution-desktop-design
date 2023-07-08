@@ -1,9 +1,10 @@
 import React, { FC } from 'react';
 import { QRCodeComponentInterface } from './interface';
+import style from './style';
 
 export const QRCode: FC<QRCodeComponentInterface> = () => {
 
-    return <div data-testid="qr-code">
+    return <div data-testid="qr-code" className={style.cardStyle}>
         <div>
             <img alt="Schema-QR-Code" src="/assets/images/image-qr-code.png" />
         </div>
