@@ -49,4 +49,4 @@ I learn how to do an unit test on React, center containers on html and css using
 
 - Website - [https://crystel.vercel.app/](https://crystel.vercel.app/)
 - Frontend Mentor - [@crystel1996](https://www.frontendmentor.io/profile/crystel1996)
-- Linkedin - [crystel Ratsimbazafy](https://www.linkedin.com/in/crystel-ratsimbazafy-996a5417a/)
+- Linkedin - [Crystel Ratsimbazafy](https://www.linkedin.com/in/crystel-ratsimbazafy-996a5417a/)
