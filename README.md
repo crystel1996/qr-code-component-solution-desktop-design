@@ -45,7 +45,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I learn how to do an unit test on React, center containers on html and css using the emotion library
 
-## Author
+## Authors
 
 - Website - [https://crystel.vercel.app/](https://crystel.vercel.app/)
 - Frontend Mentor - [@crystel1996](https://www.frontendmentor.io/profile/crystel1996)
