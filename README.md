@@ -37,7 +37,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Flexbox
 - CSS Grid
 - [React](https://reactjs.org/) - JS library
-- [Emotion](https://emotion.sh/docs/introduction) - Emotion is a library designed for writing css styles with JavaScript
+- [Emotion](https://emotion.sh/docs/introduction) - Emotion is a library designed for writing css styles with Javascript
 
 
 
@@ -45,6 +45,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 I learn how to do an unit test on React, center containers on html and css using the emotion library
 
+## Author
 ## Authors
 
 - Website - [https://crystel.vercel.app/](https://crystel.vercel.app/)
